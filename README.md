@@ -135,3 +135,5 @@ Ao final da execução, o programa solicitará ao usuário os valores de umidade
 ### 2. Saída Esperada
 
 Após receber os valores informados pelo usuário, o controlador fuzzy realizará a inferência utilizando o método de Mamdani e exibirá o índice de risco de desenvolvimento de fungos, classificando-o como baixo, médio ou alto, além de apresentar uma recomendação correspondente ao cenário avaliado.
+
+---
